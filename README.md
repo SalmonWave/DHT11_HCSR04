@@ -7,7 +7,7 @@ This repository contains Verilog projects developed using the BASYS-3 board.
 The DHT11 is a low-cost digital sensor designed to measure temperature and humidity, using a proprietary single-wire serial communication protocol. 
 
 ### HC-SR04 Overview
-The HC-SR04 is an ultrasonic sensor used to measure distance by calculating the time taken for ultrasonic sound waves to travel to and from an object, using  uses a trigger and echo mechanism. 
+The HC-SR04 is an ultrasonic sensor used to measure distance by calculating the time taken for ultrasonic sound waves to travel to and from an object, using a trigger and echo mechanism. 
 
 ### Multi-Functional Clock Overview
 A multi-functional clock is a versatile device offering the following features:
