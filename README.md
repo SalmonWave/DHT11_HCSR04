@@ -1,6 +1,6 @@
 # BASYS-3 Board Verilog Project - DHT-11 & HC-SR04 & Multi Functional Clock
 This repository contains Verilog projects developed using the BASYS-3 board.
-<br/><br/><br/><br/>
+<br/><br/>
 ## Features
 
 ### DHT-11 Overview
