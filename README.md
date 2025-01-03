@@ -1,9 +1,7 @@
 # BASYS-3 Board Verilog Project - DHT-11 & HC-SR04 & Multi Functional Clock
 This repository contains Verilog projects developed using the BASYS-3 board.
-
+<br/> 
 ## Features
-- Projects are designed for BASYS-3 boards.
-
 
 ### DHT-11 Overview
 The DHT11 is a low-cost digital sensor designed to measure temperature and humidity, using a proprietary single-wire serial communication protocol. 
@@ -18,7 +16,7 @@ A multi-functional clock is a versatile device offering the following features:
 - High-Precision Time Display: Displays time in seconds and milliseconds for finer accuracy.
 - Stopwatch Function: Measures elapsed time with start, stop, and reset capabilities.
 
-
+<br/> 
 
 ## Additional Resources
 You can download the complete files and presentation materials through the following Google Drive link:
