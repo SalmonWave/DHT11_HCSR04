@@ -15,7 +15,7 @@ A multi-functional clock is a versatile device offering the following features:
 - Time Display: Shows current time in hours and minutes.
 - High-Precision Time Display: Displays time in seconds and milliseconds for finer accuracy.
 - Stopwatch Function: Measures elapsed time with start, stop, and reset capabilities.
-<br/><br/><br/><br/>
+<br/><br/>
 
 ## Additional Resources
 You can download the complete files and presentation materials through the following Google Drive link:
